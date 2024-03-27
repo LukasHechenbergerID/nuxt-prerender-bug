@@ -6,5 +6,7 @@
 </template>
 
 <script lang="ts" setup>
-const { data } = await useFetch("https://api.apis.guru/v2/list.json");
+const { data } = await useFetch(
+  "https://restcountries.com/v3.1/all"
+);
 </script>
