@@ -1,5 +1,5 @@
 <template>
-  <h1>Other page</h1>
+  <h1>Big payload</h1>
   <p>
     {{ data }}
   </p>
