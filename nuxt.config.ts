@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   routeRules: {
     "/": { prerender: true },
     "/pageWithBiggerPayload": { prerender: true },
+    "/pageWithSmallerPayload": { prerender: true },
   },
   devtools: { enabled: true },
 });
