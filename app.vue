@@ -1,5 +1,3 @@
-import type { NuxtLoadingIndicator } from '#build/components'; import type {
-NuxtLink } from '#build/components';
 <template>
   <div>
     <div>
