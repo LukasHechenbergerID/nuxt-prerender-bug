@@ -6,7 +6,9 @@
       <NuxtLink to="/pageWithBiggerPayload" style="margin-right: 1rem"
         >Page (Bigger Payload)</NuxtLink
       >
-      <NuxtLink to="/pageWithSmallerPayload">Page (Smaller Payload)</NuxtLink>
+      <NuxtLink to="/pageWithSmallerPayload" style="margin-right: 1rem"
+        >Page (Smaller Payload)</NuxtLink
+      >
       <NuxtLink to="/pageWithBiggerPayloadNotPrerendered"
         >Page (Bigger Payload - Not Prerendered!)</NuxtLink
       >
