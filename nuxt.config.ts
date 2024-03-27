@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   routeRules: {
     "/": { prerender: true },
-    "/firstPage": { prerender: true },
+    "/pageWithBiggerPayload": { prerender: true },
   },
   devtools: { enabled: true },
 });
