@@ -1,5 +1,5 @@
 <template>
-  <h1>Small payload</h1>
+  <h1>Smaller payload</h1>
   <p>
     {{ data }}
   </p>

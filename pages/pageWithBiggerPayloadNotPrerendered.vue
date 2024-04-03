@@ -1,5 +1,5 @@
 <template>
-  <h1>Big payload (not prerendered)</h1>
+  <h1>Bigger payload (not prerendered)</h1>
   <p>
     {{ data }}
   </p>

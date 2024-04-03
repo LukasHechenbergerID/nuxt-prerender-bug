@@ -1,12 +1,11 @@
 <template>
-  <h1>Big static payload</h1>
+  <h1>Bigger static payload (Not prerendered)</h1>
   <p>
     {{ staticData }}
   </p>
 </template>
 
 <script lang="ts" setup>
-
 const staticData = [
   {
     name: {
