@@ -2,9 +2,9 @@
   <div>
     <div>
       <NuxtLoadingIndicator :throttle="0"></NuxtLoadingIndicator>
-      <NuxtLink to="/" style="margin-right: 1rem">Start Page</NuxtLink>
+      <NuxtLink to="/" style="margin-right: 1rem">Start Page (Bigger payload)</NuxtLink>
       <NuxtLink to="/pageWithBiggerPayload" style="margin-right: 1rem"
-        >Page (Bigger Payload)</NuxtLink
+        >Page (Bigger static Payload)</NuxtLink
       >
       <NuxtLink to="/pageWithSmallerPayload" style="margin-right: 1rem"
         >Page (Smaller Payload)</NuxtLink
